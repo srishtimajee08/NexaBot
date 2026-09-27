@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/vector_store/*
+!backend/vector_store/.gitkeep
+*.zip
+*.log
+node_modules/
+.netlify/

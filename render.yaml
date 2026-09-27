@@ -1,0 +1,21 @@
+# Single service: Flask serves the website and the Python RAG API together.
+# Free demo instance only; 512 MB may be insufficient for local embeddings.
+services:
+  - type: web
+    name: nexabot
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: qwen/qwen3.8-27b
+      - key: REQUIRE_BACKEND_TOKEN
+        value: "0"
+      - key: GROQ_TIMEOUT_SECONDS
+        value: "40"
+      - key: PRELOAD_RAG
+        value: "1"

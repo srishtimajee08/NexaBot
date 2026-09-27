@@ -1,0 +1,15 @@
+.git
+.venv
+venv
+node_modules
+.netlify
+**/.env
+**/.env.*
+**/__pycache__
+**/*.pyc
+**/*.zip
+**/*.log
+backend/vector_store
+backend/tests
+netlify
+scripts
