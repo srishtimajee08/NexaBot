@@ -1,0 +1,22 @@
+NEXACART — ACCOUNT AND TROUBLESHOOTING GUIDE
+
+CREATE AN ACCOUNT
+Select Sign up, enter your name and email, and choose a password with at least 8 characters including a letter and a number. Verify your email using the link sent to your inbox. If the verification message does not arrive within 10 minutes, check your spam folder and request a new verification email from the sign-in page.
+
+RESET A FORGOTTEN PASSWORD
+On the sign-in page, choose Forgot password, enter the email address registered to your account, and select Send reset link. Open the password-reset email and follow the link to choose a new password. The reset link expires after 30 minutes and can be used once. If it expires, request another link. Check spam and confirm you entered the correct email if no message arrives within 10 minutes. Never send your password or reset link to the assistant or support.
+
+SIGN-IN PROBLEMS
+Check that you are using your registered email and that Caps Lock is off. After 5 failed sign-in attempts, sign-in is temporarily locked for 15 minutes. Wait before trying again or use Forgot password. If the problem continues, email support@nexacart.example with a description and a screenshot that does not show private information. Support never asks for your password or OTP.
+
+ACCOUNT DETAILS
+Update your name and saved shipping addresses in My Account > Profile. To change your registered email, contact support from your current registered email; verification is required. For account deletion, contact support from the registered email. This documentation does not specify a deletion completion time. The assistant cannot authenticate customers or update an account.
+
+BLUETOOTH HEADPHONE TROUBLESHOOTING
+For NexaSound S2 connection problems, charge the headphones, switch them on, and hold the pairing button for 5 seconds until the indicator flashes. Enable Bluetooth on your device and select NexaSound S2. If pairing fails, remove the old NexaSound S2 entry from your device's Bluetooth settings, restart Bluetooth, and pair again. Disconnect another paired device if it is already connected. Contact support if the issue continues.
+
+USB-C HUB TROUBLESHOOTING
+For the NexaHub H1, reconnect the hub directly to a compatible USB-C port and reconnect one peripheral at a time. For an external monitor, check that the computer's USB-C port supports DisplayPort Alt Mode and that the monitor uses the correct input. Do not assume all USB-C ports support video. Stop using any accessory that is visibly damaged or overheating and contact support.
+
+HUMAN SUPPORT
+Email support@nexacart.example with your order ID if relevant, a short description, and any non-sensitive screenshots. Support operates Monday to Saturday, 9:00 AM to 6:00 PM IST, excluding public holidays, and targets an initial reply within one business day. This is a fictional demonstration address. The chatbot only explains documentation and does not send emails or create support tickets.

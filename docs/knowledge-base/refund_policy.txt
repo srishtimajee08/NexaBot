@@ -1,0 +1,16 @@
+NEXACART — RETURNS, REFUNDS AND CANCELLATIONS
+
+RETURN ELIGIBILITY
+Customers may request a return within 7 calendar days of delivery. Items must be unused, in original packaging, with all accessories and the invoice. Opened headphones cannot be returned for change of mind for hygiene reasons; defective or damaged headphones can still be reported. Contact support@nexacart.example with the order ID, the item, and the reason for return. Do not send an item back until support has approved the request and supplied return instructions.
+
+RETURN COLLECTION AND FEES
+For an approved return, support arranges a pickup where courier service is available. Where pickup is unavailable, support supplies a return address and instructions. NexaCart covers return shipping for an incorrect, damaged, or defective item. For an eligible change-of-mind return, a flat INR 99 return shipping fee is deducted from the product refund. The original shipping charge is refundable only when NexaCart sent an incorrect, damaged, or defective item.
+
+REFUND PROCESS AND TIMING
+Returned items are inspected within 2 business days after reaching the warehouse. If the return passes inspection, the refund is initiated to the original payment method. After initiation, refunds normally appear within 5 to 7 business days, depending on the bank or payment provider. Customers receive an email when the refund is initiated. The assistant cannot approve, initiate, or check an actual refund. If a refund is missing after 7 business days from the initiation email, contact support with the order ID and refund reference.
+
+DAMAGED OR INCORRECT PRODUCTS
+Report an item that arrived damaged or incorrect within 48 hours of delivery. Email support@nexacart.example with the order ID and clear photos of the product, packaging, and shipping label. Keep the packaging until the case is resolved. Support reviews the evidence and offers an approved replacement if available, or a refund. A replacement is not guaranteed before review. Manufacturing defects discovered later can be assessed under the one-year limited warranty.
+
+ORDER CANCELLATION
+An order can be cancelled before it is dispatched: go to My Account > Orders > select the order > Cancel order. Guest customers should email support with the order ID. A request sent to support does not guarantee cancellation if dispatch occurs before processing. Once dispatched, orders cannot be cancelled; use the return process after delivery if eligible. For a successful prepaid cancellation, the full order amount is refunded to the original payment method, normally within 5 to 7 business days of cancellation confirmation.

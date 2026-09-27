@@ -1,0 +1,19 @@
+NEXACART — SHIPPING AND ORDER TRACKING
+
+DELIVERY COVERAGE
+NexaCart ships to serviceable addresses within India only. International shipping is not available. Enter your PIN code at checkout to check serviceability. Deliveries to PO boxes are not supported.
+
+DISPATCH AND DELIVERY TIMES
+Orders are normally dispatched within 1 to 2 business days after payment confirmation. Standard shipping takes an additional 3 to 5 business days after dispatch. Express shipping takes an additional 1 to 2 business days after dispatch and is available only for eligible PIN codes shown at checkout. Business days for shipping are Monday to Friday, excluding public holidays. These times are estimates; weather, courier disruptions, or remote locations may cause delays. No same-day delivery service is offered.
+
+SHIPPING CHARGES
+Standard shipping is free for orders with a product subtotal of INR 1,999 or more after discounts. Below that amount, standard shipping costs INR 79. Express shipping costs INR 149 for any eligible order and does not qualify for the free standard-shipping offer. The final shipping charge is shown at checkout before payment.
+
+TRACKING AN ORDER
+After dispatch, NexaCart emails a courier tracking link and tracking number. Registered customers can also open My Account > Orders > select the order > Track shipment. Guest customers use the tracking link in the dispatch email. Courier tracking may take up to 24 hours after dispatch to show the first update. This assistant cannot query a live courier system or provide the current location of a specific order.
+
+DELAYED OR MISSING DELIVERIES
+If delivery has not arrived by the estimated delivery date, check the tracking link, then contact support@nexacart.example with the order ID. If tracking says delivered but you have not received it, check with household members or building reception and report it to support within 48 hours of the marked delivery. Support will investigate with the courier. Do not assume a refund or replacement is approved before investigation.
+
+ADDRESS CHANGES
+Before dispatch, contact support with the order ID and corrected address. Address changes depend on whether the order can still be updated and whether the new PIN code is serviceable. After dispatch, the delivery address cannot be changed by NexaCart. Updating the saved address in your account does not automatically change an existing order.

@@ -1,0 +1,17 @@
+NEXACART — GENERAL FAQS AND PRODUCTS
+NexaCart is a fictional online technology retailer for this educational demonstration. It sells accessories within India. All amounts are in Indian rupees (INR).
+
+PRODUCTS AND SERVICES
+NexaCart sells the NexaKeys K1 wireless keyboard (INR 2,499), NexaSound S2 Bluetooth headphones (INR 3,499), NexaHub H1 USB-C hub (INR 1,799), and NexaCharge C1 30W USB-C charger (INR 999). The USB-C hub requires a device with a compatible USB-C port; video output additionally requires DisplayPort Alt Mode. Products include a one-year limited warranty for manufacturing defects. Accidental damage and liquid damage are not covered. Contact support with the order ID and a description of the fault to request warranty assistance. No installation service is offered.
+
+PLACING ORDERS
+Choose a product, add it to your cart, enter an Indian delivery address, and complete payment at checkout. An order confirmation is sent to the email address supplied at checkout. Guest checkout is available. The assistant cannot place orders or look up a customer's actual order status.
+
+PAYMENT METHODS
+NexaCart accepts Visa and Mastercard debit or credit cards, UPI, and net banking. Cash on delivery and instalment payments are not available. Prices include applicable GST. A tax invoice is emailed after dispatch and is also available under My Account > Orders > Download invoice. Do not share full card numbers, CVV, passwords, or OTPs with support.
+
+FAILED PAYMENTS
+If payment fails, check the payment details and try another supported method. If your bank debited money but no order confirmation arrived, wait 30 minutes and check your email spam folder. If there is still no order, contact support with the payment reference and transaction date. Do not place repeated orders while an earlier payment is unresolved. No reversal time for failed payments is documented here.
+
+CONTACT
+Email support@nexacart.example for help. Support hours are Monday to Saturday, 9:00 AM to 6:00 PM IST, excluding public holidays. The target initial response time is one business day; this is not a resolution guarantee. The .example email address is fictional and is not a working support mailbox.
