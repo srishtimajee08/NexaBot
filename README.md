@@ -38,7 +38,6 @@ nexaBot/
 
 ## Setup and run
 
-Use [single-host deployment](docs/SIMPLE_HOSTING.md) for the simplest public setup. The workspace also retains the older optional Netlify proxy files, but they are not required and are excluded from the simple-hosting ZIP. The new Render address replaces the need for the old Netlify address.
 
 The instructions below run the project locally.
 
@@ -75,4 +74,3 @@ node --check frontend/script.js
 
 Node is optional and only needed for the JavaScript syntax check above. Flask serves `frontend/` through `/static/`, and the frontend calls `/api/chat` on the same host. Source metadata remains in the Python API for grounding; citations are hidden in the customer interface.
 
-See [the complete project guide](docs/PROJECT_GUIDE.md) for architecture, installation on other platforms, and the technical summary for your viva.
