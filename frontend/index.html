@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="NexaCart customer support, grounded in company documentation.">
+  <title>nexaBot · NexaCart</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/script.js" defer></script>
+</head>
+<body>
+  <button class="overlay" id="overlay" aria-label="Close navigation" hidden></button>
+  <aside class="sidebar" id="sidebar" aria-label="Support navigation">
+    <a class="brand" href="/" aria-label="NexaCart home"><span class="brand-mark">n<span>·</span></span><span>NexaCart<span class="brand-subtitle">CUSTOMER EXPERIENCE</span></span></a>
+    <button class="new-chat" id="new-chat"><span aria-hidden="true">＋</span> New conversation</button>
+    <p class="nav-label">SUPPORT CATEGORIES</p>
+    <nav>
+      <button class="nav-item active" data-question="What should I know about NexaCart?"><span aria-hidden="true">◫</span> General FAQs</button>
+      <button class="nav-item" data-question="How can I track my order?"><span aria-hidden="true">▣</span> Orders</button>
+      <button class="nav-item" data-question="How long does shipping take?"><span aria-hidden="true">↗</span> Shipping</button>
+      <button class="nav-item" data-question="What is your refund policy?"><span aria-hidden="true">↶</span> Returns & refunds</button>
+      <button class="nav-item" data-question="How do I reset my password?"><span aria-hidden="true">◎</span> Account help</button>
+    </nav>
+    <div class="sidebar-note"><span class="small-spark" aria-hidden="true">✧</span><strong>A little help, right here.</strong><p>Find clear answers from our company support documentation.</p></div>
+    <div class="sidebar-bottom"><span class="rag-dot"></span> Powered by RAG <span class="version">v1.0</span></div>
+  </aside>
+  <main>
+    <header class="chat-header">
+      <button id="menu-toggle" class="icon-button menu-toggle" aria-label="Open navigation" aria-controls="sidebar" aria-expanded="false">☰</button>
+      <div><h1>nexaBot</h1><p>Answers based on verified company documentation</p></div>
+      <span class="status"><span></span> nexaBot <span class="online-word">Online</span></span>
+    </header>
+    <div class="chat-scroll" id="chat-scroll">
+      <section class="welcome" id="welcome">
+        <div class="eyebrow"><span></span> YOUR NEXACART SUPPORT ASSISTANT</div>
+        <div class="welcome-icon" aria-hidden="true">✧</div>
+        <h2>A question? You're in<br><span>the right place.</span></h2>
+        <p class="welcome-copy">Hi! I'm nexaBot, your AI support assistant. Let's get you the answers you need — from orders and shipping to returns and account help.</p>
+        <div class="trust-line"><span aria-hidden="true">▤</span> Grounded in our knowledge base</div>
+        <div class="suggestions">
+          <button data-question="What is your refund policy?"><span class="suggestion-icon">↶</span><strong>Returns & refunds</strong><span>What is your refund policy?</span><span class="arrow">↗</span></button>
+          <button data-question="How long does shipping take?"><span class="suggestion-icon">↗</span><strong>Shipping & delivery</strong><span>How long does shipping take?</span><span class="arrow">↗</span></button>
+          <button data-question="How can I track my order?"><span class="suggestion-icon">▣</span><strong>Track an order</strong><span>Where can I find my order?</span><span class="arrow">↗</span></button>
+          <button data-question="How do I reset my password?"><span class="suggestion-icon">◎</span><strong>Account help</strong><span>How do I reset my password?</span><span class="arrow">↗</span></button>
+        </div>
+        <button class="cancel-suggestion" data-question="Can I cancel my order?">Need to cancel an order? <span aria-hidden="true">→</span></button>
+      </section>
+      <section class="messages" id="messages" aria-label="Conversation" aria-live="polite" aria-relevant="additions"></section>
+    </div>
+    <footer class="composer-area">
+      <form class="composer" id="chat-form">
+        <label class="sr-only" for="message-input">Your support question</label>
+        <textarea id="message-input" rows="1" maxlength="2000" placeholder="Ask a question about your order, shipping, or account…" required></textarea>
+        <button type="submit" id="send-button" aria-label="Send message" disabled><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="m12 19 0-14m-6 6 6-6 6 6"/></svg></button>
+      </form>
+      <div class="composer-meta"><span><span aria-hidden="true">✧</span> AI-powered answers. For anything else, contact human support.</span><span class="keyboard-hint">Enter to send · Shift + Enter for a new line</span></div>
+      <p class="demo-note">NexaCart is a fictional company. This demo cannot access or change real orders.</p>
+    </footer>
+  </main>
+</body>
+</html>
